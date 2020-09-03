@@ -14,7 +14,7 @@ The mentioned site can be found at `sites[.]google[.]com/view/crasher-goose/home
 
 After further research, we have noticed this site accepts donations for the "Crasher Goose". What's worse, the "Crasher Goose" website seems to be providing paid access to our website. We do not condone this. The download links for the "Crasher Goose" also goes through Linkvertise, which Sam has also asked not to be done. No revenue should be earned off of the Desktop Goose.
 
-However, what's **even** worse, the "Crasher Goose" seems to explicitly **BYPASS** the legal message, which Sam has asked to **NEVER** be done, **EVER**. This is a legal statment that applies to every modded instance of the goose to say that Sam is not responsible for any issues that occur while AllowMods is set to true, by bypassing that it is implied that if anything happened then the creator could be held accountable.
+However, what's **even** worse, the "Crasher Goose" **BYPASSES** the legal message, which Sam has asked to **NEVER** be done, **EVER**. This is a legal statement that applies to every modded instance of the goose to say that Sam is not responsible for any issues that occur while AllowMods is set to true, by bypassing that it is implied that if anything happened then the creator could be held accountable.
 
 ![Image of the "Crasher Goose" author asking about how to bypass the legal message](https://i.imgur.com/HAwAGkp.png)
 
@@ -90,4 +90,5 @@ Please remember: The only trusted place to download mods is through ResourceHub,
 Even though the Desktop Goose is a funny little program, these sort of issues are not, we will try our best to stop these sort of programs before they become well known.
 
 Thanks for reading,
+
 The ResourceHub Team
