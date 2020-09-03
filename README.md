@@ -72,7 +72,9 @@ And a GIF of the VM screaming in pain:
 
 You know what you're doing, right? We don't recommend doing it.
 
-Anyways, here is the link for Crasher Goose 1.3: `https://drive[.]google[.]com/file/d/1Pgc5GZZUrVM3lZvNXA7IHdeTCf7DqIke/view`
+Anyways, here is the link for Crasher Goose 1.3: 
+
+`https://drive[.]google[.]com/file/d/1Pgc5GZZUrVM3lZvNXA7IHdeTCf7DqIke`
 
 ## Outro
 
