@@ -34,7 +34,7 @@ The only thing you can do is to exit the Download Manager, which will place a sh
 
 ![An image of the Linkvertise shortcut](https://i.imgur.com/ZgJ3WlM.png)
 
-It also seems to be a trojan.
+It also seems to be a trojan and adware, thus turning the Desktop Goose into malware.
 
 ## Outro
 
