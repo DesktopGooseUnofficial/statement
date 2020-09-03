@@ -26,6 +26,8 @@ Linkvertise forces you to enable notifications and read articles before you can 
 
 ![Image of Linkvertise wanting the user to enable notifications and read articles](https://i.imgur.com/4AkLapt.png)
 
+This **will** send you NSFW notifications.
+
 Once you do that, you get taken to yet another download page, asking you to get the Linkvertise Download Manager.
 
 ![Image of Linkvertise wanting the user to download the Linkvertise Download Manager](https://i.imgur.com/6X9ty9d.png)
