@@ -38,7 +38,35 @@ It also seems to be a trojan and adware, thus turning the Desktop Goose into mal
 
 ## And what is it?
 
-Placeholder
+First off, Clicker and One Punch Goose comes installed with the Crasher Goose by default.
+
+It also comes with some other mods that are off by default:
+
+- AcidGoose
+- Goose Manager
+- Honcker
+- NECC
+- RainbowStrobe
+- ShaggysNameMod
+- SizzurpMods
+
+It comes with three batch files:
+
+- za Slow Crasher Goose.bat
+- zb Fast Crasher Goose.bat
+- zc Custom Crasher.bat
+
+The creator also pretends like he made the Goose.
+
+The batch files keep running the Goose until your PC crashes.
+
+Here's an example of the Custom Crasher:
+
+![Custom Crasher image](https://i.imgur.com/AjDCGXu.png)
+
+And a GIF of the VM screaming in pain:
+
+![A lot of geese overlapping, slowing the VM to a crawl](https://i.imgur.com/UWl0d8C.gif)
 
 ## Outro
 
