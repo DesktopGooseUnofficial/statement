@@ -11,3 +11,5 @@ However, what's **even** worse, the "Crasher Goose" seems to explicitly **BYPASS
 ResourceHub will **ALWAYS** be free to use. There will be no advertisements whatsoever, unless it is truly necessary.
 
 We are **not** affiliated with the "Crasher Goose". The site has been reported to Google, and we're currently waiting for the site to be taken down.
+
+Please check back for updates.
