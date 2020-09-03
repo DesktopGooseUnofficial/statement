@@ -1,5 +1,7 @@
 # An Official Statement from The ResourceHub Team
 
+![GitHub last commit](https://img.shields.io/github/last-commit/desktopgooseunofficial/statement?label=Last%20edit&logo=github)
+
 ## Intro
 
 Please check back for updates. This statement will be updated often.
