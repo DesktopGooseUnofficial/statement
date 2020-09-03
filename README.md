@@ -83,7 +83,7 @@ Anyways, here is the link for Crasher Goose 1.3:
 ResourceHub will **ALWAYS** be free to use. There will be no advertisements whatsoever, unless it is truly necessary.
 
 We are **not** affiliated with the "Crasher Goose". The site has been reported to Google, and we're currently waiting for the site to be taken down.
-This is something we were expecting to happen, but we felt it important to highlight any major ones that are actively being advertised.
+This is something we were expecting to happen, but we felt it's important to highlight any major ones that are actively being advertised.
 
 Please remember: The only trusted place to download mods is through ResourceHub, any other place could pose a substantial risk, we ensure all mods uploaded follow strict guidelines including: showing the source code and not allowing anything that can change the files of a computer or result in the corruption of the Desktop Goose.
 
