@@ -18,11 +18,9 @@ However, what's **even** worse, the "Crasher Goose" seems to explicitly **BYPASS
 
 ![Image of the "Crasher Goose" author asking about how to bypass the legal message](https://i.imgur.com/HAwAGkp.png)
 
-## The actual software
+## The software
 
 ### Installation
-
-Installing the "Crasher Goose" seems impossible.
 
 Linkvertise forces you to enable notifications and read articles before you can continue (this should be sketchy to anyone) 
 
@@ -34,13 +32,13 @@ Once you do that, you get taken to yet another download page, asking you to get 
 
 ![Image of Linkvertise wanting the user to download the Linkvertise Download Manager](https://i.imgur.com/6X9ty9d.png)
 
-Once you do that though - the Linkvertise Download Manager is **unresponsive**. Meanwhile, in the background, the Linkvertise Download Manager sends requests to malicious sites.
-
-The only thing you can do is to exit the Download Manager, which will place a shortcut on your desktop which allows you to open the Download Manager again.
-
-![An image of the Linkvertise shortcut](https://i.imgur.com/ZgJ3WlM.png)
+Once you do that though, in the background, the Linkvertise Download Manager sends requests to malicious sites.
 
 It also seems to be a trojan and adware, thus turning the Desktop Goose into malware.
+
+## And what is it?
+
+Placeholder
 
 ## Outro
 
