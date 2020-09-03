@@ -14,7 +14,7 @@ The mentioned site can be found at `sites[.]google[.]com/view/crasher-goose/home
 
 After further research, we have noticed this site accepts donations for the "Crasher Goose". What's worse, the "Crasher Goose" website seems to be providing paid access to our website. We do not condone this. The download links for the "Crasher Goose" also goes through Linkvertise, which Sam has also asked not to be done. No revenue should be earned off of the Desktop Goose.
 
-However, what's **even** worse, the "Crasher Goose" seems to explicitly **BYPASS** the legal message, which Sam has asked to **NEVER** be done, **EVER**. This is a legal statment that applies to every modded instance of the goose to say that sam is not responsible for any issues that occur while AllowMods is set to true, by bypassing that it is implied that if wanything happened then the creator could be held accountable 
+However, what's **even** worse, the "Crasher Goose" seems to explicitly **BYPASS** the legal message, which Sam has asked to **NEVER** be done, **EVER**. This is a legal statment that applies to every modded instance of the goose to say that Sam is not responsible for any issues that occur while AllowMods is set to true, by bypassing that it is implied that if anything happened then the creator could be held accountable.
 
 ![Image of the "Crasher Goose" author asking about how to bypass the legal message](https://i.imgur.com/HAwAGkp.png)
 
@@ -24,11 +24,11 @@ However, what's **even** worse, the "Crasher Goose" seems to explicitly **BYPASS
 
 Installing the "Crasher Goose" seems impossible.
 
-Linkvertise forces you to enable notifications and read articles before you can continue (this should be sketchy to anyone) this also means that you could receive random notifications from them at any time.
+Linkvertise forces you to enable notifications and read articles before you can continue (this should be sketchy to anyone) 
+
+This also means that you could receive random notifications from them at any time, usually NSFW ones.
 
 ![Image of Linkvertise wanting the user to enable notifications and read articles](https://i.imgur.com/4AkLapt.png)
-
-This **will** send you NSFW notifications.
 
 Once you do that, you get taken to yet another download page, asking you to get the Linkvertise Download Manager.
 
@@ -47,11 +47,11 @@ It also seems to be a trojan and adware, thus turning the Desktop Goose into mal
 ResourceHub will **ALWAYS** be free to use. There will be no advertisements whatsoever, unless it is truly necessary.
 
 We are **not** affiliated with the "Crasher Goose". The site has been reported to Google, and we're currently waiting for the site to be taken down.
-this is something we were expecting to happen but we felt it important to highlight any major ones that are actively being advertised.
+This is something we were expecting to happen, but we felt it important to highlight any major ones that are actively being advertised.
 
-Please remember: the only trusted place to download mods is through resourcehub, any other place could pose a substantial risk, we ensure all mods uploaded follow strict guidelines including: showing the source code and not allowing anything that can change the files of a computer or result in the corruption of the game
+Please remember: The only trusted place to download mods is through ResourceHub, any other place could pose a substantial risk, we ensure all mods uploaded follow strict guidelines including: showing the source code and not allowing anything that can change the files of a computer or result in the corruption of the Desktop Goose.
 
-Even though the goose is a funny little program, these sort of issues are not, we will try our best to stop these sort of programs before they become well known
+Even though the Desktop Goose is a funny little program, these sort of issues are not, we will try our best to stop these sort of programs before they become well known.
 
-Thanks for reading
+Thanks for reading,
 The ResourceHub Team
