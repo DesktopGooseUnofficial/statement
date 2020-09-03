@@ -56,7 +56,7 @@ It comes with three batch files:
 - zb Fast Crasher Goose.bat
 - zc Custom Crasher.bat
 
-The creator also pretends like he made the Goose.
+The creator also pretends like he made the Goose and the mods.
 
 The batch files keep running the Goose until your PC crashes.
 
