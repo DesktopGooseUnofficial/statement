@@ -68,6 +68,12 @@ And a GIF of the VM screaming in pain:
 
 ![A lot of geese overlapping, slowing the VM to a crawl](https://i.imgur.com/UWl0d8C.gif)
 
+### How do I get it?
+
+You know what you're doing, right? We don't recommend doing it.
+
+Anyways, here is the link for Crasher Goose 1.3: `https://drive[.]google[.]com/file/d/1Pgc5GZZUrVM3lZvNXA7IHdeTCf7DqIke/view`
+
 ## Outro
 
 ResourceHub will **ALWAYS** be free to use. There will be no advertisements whatsoever, unless it is truly necessary.
