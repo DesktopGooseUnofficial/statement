@@ -1,6 +1,6 @@
-## Intro
+# An Official Statement from The ResourceHub Team
 
-Hello, this is a public statement from The ResourceHub Team.
+## Intro
 
 Please check back for updates. This statement will be updated often.
 
