@@ -68,6 +68,8 @@ And a GIF of the VM screaming in pain:
 
 ![A lot of geese overlapping, slowing the VM to a crawl](https://i.imgur.com/UWl0d8C.gif)
 
+Last but not least, you can look at a bad PowerPoint Slideshow of The ResourceHub Team running it at [any.run](https://app.any.run/tasks/f8ace6c6-1210-41b4-b9d8-9302119d6a69).
+
 ### How do I get it?
 
 You know what you're doing, right? We don't recommend doing it.
