@@ -18,6 +18,8 @@ However, what's **even** worse, the "Crasher Goose" seems to explicitly **BYPASS
 
 ## The actual software
 
+### Installation
+
 Installing the "Crasher Goose" seems impossible.
 
 Linkvertise forces you to enable notifications and read articles before you can continue.
