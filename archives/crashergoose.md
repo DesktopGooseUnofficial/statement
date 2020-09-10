@@ -1,10 +1,13 @@
 # Crasher Goose
 
+## Is Crasher Goose still available?
+As of 10/09/2020, Crasher Goose is still available for download.
+
 ## Intro
 
 Please check back for updates. This statement will be updated often.
 
-Today (03/09/2020 in DD/MM/YYYY) we were notified about a site distributing a "Crasher Goose". 
+On 03/09/2020, we were notified about a site distributing a "Crasher Goose". 
 
 The mentioned site can be found at `sites[.]google[.]com/view/crasher-goose/home`. DO NOT GO THERE UNLESS YOU KNOW WHAT YOU'RE DOING.
 
