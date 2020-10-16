@@ -90,6 +90,8 @@ Please remember: The only trusted place to download mods is through ResourceHub,
 
 Even though the Desktop Goose is a funny little program, these sort of issues are not, we will try our best to stop these sort of programs before they become well known.
 
+---
+
 Thanks for reading,
 
 The ResourceHub Team
