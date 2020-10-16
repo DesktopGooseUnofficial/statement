@@ -1,3 +1,5 @@
 # Statements from The ResourceHub Team
 
-[**Crasher Goose statement**](archives/crashergoose.md) (latest)
+[**GameSnort statement**](archives/gamesnort.md) (latest)
+
+[**Crasher Goose statement**](archives/crashergoose.md)

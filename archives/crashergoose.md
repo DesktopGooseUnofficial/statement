@@ -1,7 +1,7 @@
 # Crasher Goose
 
 ## Is Crasher Goose still available?
-As of 10/09/2020, Crasher Goose is still available for download.
+As of 16/10/2020, Crasher Goose has been taken down.
 
 ## Intro
 
